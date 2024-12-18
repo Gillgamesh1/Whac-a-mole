@@ -10,3 +10,8 @@
     height: 200px;
     border: solid black 5px;
 }
+
+.mole {
+	background-image: url("pizza.png");
+	background-size: cover;
+}
